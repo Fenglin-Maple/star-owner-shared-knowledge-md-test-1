@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "type": "star-owner-shared-knowledge",
+  "repository": "Fenglin-Maple/star-owner-shared-knowledge-md-test-1",
+  "defaultBranch": "main",
+  "capabilities": [
+    "bilibili-summary",
+    "single-video-summary",
+    "multipart-summary",
+    "catalog-v1"
+  ]
+}
