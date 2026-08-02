@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.sqlite
+*.db
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.flac
